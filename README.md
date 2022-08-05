@@ -1,7 +1,9 @@
 # WebScraping-Python
 
-A finalidade do código é realizar um Web Scraping, via python e armazenar os arquivos em um CSV.
+A finalidade dos códigos é realizar um Web Scraping, via python e armazenar os dados em um CSV.
 
-# Canal de Aprendizagem
+# Canais de Aprendizagem
 
-Walisson Silva (https://www.youtube.com/c/WalissonSilva)
+Web_scrapping#1.py - Walisson Silva (https://www.youtube.com/c/WalissonSilva)
+
+Web_scrapping#2.py - Alura (https://cursos.alura.com.br/) - Curso de Scraping com Python: coleta de dados na web
